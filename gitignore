@@ -1,0 +1,23 @@
+Desenvolver um programa para uma escola.
+
+O sistema pergunta ao usuário quantos estudantes serão cadastrados
+(0,5 pto)
+ 
+
+Em seguida o programa solicita o lançamento de todos os estudantes:
+NOME do(a) estudante
+2 notas do semestre
+(0,5 pto)
+
+
+O sistema limpa a tela, faz a média e mostra os dados em ordem de cada estudante (imprimir todos(as) estudantes):
+NOME
+NOTA 1
+NOTA 2
+MÉDIA
+(0,5 pto)
+
+Mostrar se foi APROVADO(A) ou REPROVADO(A)
+[nota de aprovação 7 ou mais]
+
+(0,5 pto)
